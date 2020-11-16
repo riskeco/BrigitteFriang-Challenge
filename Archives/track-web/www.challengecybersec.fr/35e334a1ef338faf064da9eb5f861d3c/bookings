@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/css/style_page.css" rel="stylesheet">
+  <link rel="icon" href="/35e334a1ef338faf064da9eb5f861d3c/img/favicon.ico" />
+  <title>Evil Air</title>
+</head>
+
+<body>
+  <div class="container-fluid h-100 w-100">
+    <div class="row h-100 general-container">
+      <div class="top-section w-100">
+        <nav class="navbar navbar-expand-lg navbar-light mt-3">
+          <div class="container">
+            <a class="navbar-brand mr-5" href="#"><a class="navbar-brand mr-5" href="#"><img src="/35e334a1ef338faf064da9eb5f861d3c/img/logo.svg" height="40px" width="40px"/></a></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse ml-5" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item active mx-4">
+                  <a class="nav-link" href="/35e334a1ef338faf064da9eb5f861d3c/">Accueil <span
+                      class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="/35e334a1ef338faf064da9eb5f861d3c/bookings">Mes reservations</a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="#">Explorer</a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="#">Informations</a>
+                </li>
+              </ul>
+            </div>
+              
+              <a class="btn btn-dark" href="/35e334a1ef338faf064da9eb5f861d3c/login">Se connecter</a>
+              
+          </div>
+        </nav>
+        <div class="row h-100">
+    <div class="col-6 my-auto p-0">
+      <div class="container w-50">
+        
+        
+        <form method="POST" action="/35e334a1ef338faf064da9eb5f861d3c/login">
+              <div class="form-group">
+                <label for="inputEmail1">Adresse mail</label>
+                <input type="email" class="form-control" id="InputEmail1" name="email" aria-describedby="emailHelp" placeholder="Email" required>
+              </div>
+              <div class="form-group">
+                <label for="inputPassword1">Mot de passe</label>
+                <input type="password" class="form-control" id="inputPassword1" name="password" placeholder="Mot de passe" required>
+              </div>
+              <button type="submit" class="btn btn-dark w-100">Se connecter</button>
+          </form>
+          <div class="mt-2 text-center">
+            <small>Pas de compte ? <a href="/35e334a1ef338faf064da9eb5f861d3c/register">Créez-en un</a></small><br>
+            <small>Mot de passe oublié ? <a href="/35e334a1ef338faf064da9eb5f861d3c/forgot">Retrouvez-le ?</a></small>
+          </div>
+      </div>
+    </div>
+    <div class="col-6 bg-dark p-0 rounded-left h-100 right-container">
+      <div class="row h-100 d-flex justify-content-center image-background">
+        <div class="col-8 my-auto">
+          <div class="d-flex justify-center center-div">
+            <div class="row text-white">
+              <div class="col-12">
+                <h3 class="text-left">Visitez le monde avec la compagnie la plus démoniaque</h3>
+              </div>
+              <div class="col-12 mt-5 ml-5">
+                <div class="row">
+                  <div class="col-1"><i class="fas fa-bolt fa-2x"></i></div>
+                  <div class="col"><p>Aussi rapide et incertaine que l'éclair</p></div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-1"><i class="fas fa-concierge-bell fa-2x"></i></div>
+                  <div class="col"><p>Voyagez tout confort</p></div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-1"><i class="fas fa-check fa-2x"></i></div>
+                  <div class="col"><p>42% certifiée sûre</p></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+  </div>
+</body>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/jquery-3.5.1.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/popper.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/bootstrap.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/script.js"></script>
+
+</html>

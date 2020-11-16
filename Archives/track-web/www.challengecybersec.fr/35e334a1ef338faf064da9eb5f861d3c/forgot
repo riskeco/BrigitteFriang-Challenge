@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/35e334a1ef338faf064da9eb5f861d3c/css/style_page.css" rel="stylesheet">
+  <link rel="icon" href="/35e334a1ef338faf064da9eb5f861d3c/img/favicon.ico" />
+  <title>Evil Air</title>
+</head>
+
+<body>
+  <div class="container-fluid h-100 w-100">
+    <div class="row h-100 general-container">
+      <div class="top-section w-100">
+        <nav class="navbar navbar-expand-lg navbar-light mt-3">
+          <div class="container">
+            <a class="navbar-brand mr-5" href="#"><a class="navbar-brand mr-5" href="#"><img src="/35e334a1ef338faf064da9eb5f861d3c/img/logo.svg" height="40px" width="40px"/></a></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse ml-5" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item active mx-4">
+                  <a class="nav-link" href="/35e334a1ef338faf064da9eb5f861d3c/">Accueil <span
+                      class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="/35e334a1ef338faf064da9eb5f861d3c/bookings">Mes reservations</a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="#">Explorer</a>
+                </li>
+                <li class="nav-item mx-4">
+                  <a class="nav-link" href="#">Informations</a>
+                </li>
+              </ul>
+            </div>
+              
+              <a class="btn btn-dark" href="/35e334a1ef338faf064da9eb5f861d3c/login">Se connecter</a>
+              
+          </div>
+        </nav>
+        <div class="row justify-content-center">
+    <div class="col position-fixed w-25" style="top:15rem;">
+        
+        
+        <form method="POST" action="/35e334a1ef338faf064da9eb5f861d3c/forgot">
+            <div class="form-group">
+                <label for="inputEmail">Adresse email</label>
+                <input type="email" class="form-control" id="inputEmail" name="email" aria-describedby="emailHelp" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Confirmer</button>
+        </form>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+  </div>
+</body>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/jquery-3.5.1.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/popper.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/bootstrap.min.js"></script>
+<script src="/35e334a1ef338faf064da9eb5f861d3c/js/script.js"></script>
+
+</html>

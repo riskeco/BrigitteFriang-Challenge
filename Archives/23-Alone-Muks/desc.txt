@@ -1,0 +1,10 @@
+Lors de votre récent séjour à Evil Country, vous êtes parvenu à brancher un dispositif sur le camion effectuant la livraison. Il faut maintenant trouver une faille sur le système pour pouvoir prendre le contrôle du camion autonome de la marque Lates et le rediriger vers un point d'extraction. Un agent a posé un dispositif nous permettant d'accéder au système de divertissement du véhicule. A partir de ce dernier, remontez jusqu'au système de navigation.
+Connectez-vous en SSH au camion
+
+Identifiants: user:user
+
+Le serveur est réinitialisé périodiquement
+
+Port : 5004
+
+Le flag est de la forme DGSESIEE{hash}

@@ -1,0 +1,7 @@
+EvilGouv a récemment ouvert un service de chat-bot, vous savez ces trucs que personne n'aime. Bon en plus d'être particulièrement nul, il doit forcément y avoir une faille. Trouvez un moyen d'accéder à l'intranet !
+
+Lien : https://challengecybersec.fr/b34658e7f6221024f8d18a7f0d3497e4
+
+Indice : Réseau local
+
+Le flag est de la forme : DGSESIEE{x} avec x un hash
